@@ -1,0 +1,801 @@
+CustomerID,Age,Gender,Location,Rating,Category,Comment
+6995,,Female,Carrport,4,Product,"Good product overall, but room for improvement."
+7800,22.0,Other,New Cynthia,1,Product,"Very poor product, needs significant improvement."
+6134,49.0,Male,Gloverstad,1,Product,"Very poor product, needs significant improvement."
+4607,63.0,Other,Peggyside,1,Product,"Very poor product, needs significant improvement."
+3044,,Other,Lisaside,4,Support,"Good support overall, but room for improvement."
+5036,41.0,Male,Port Kevinport,2,Product,Not satisfied with the product.
+6194,20.0,Male,East Tracy,3,Service,"Average service, nothing special."
+6265,39.0,Male,East Jacquelinechester,4,Service,"Good service overall, but room for improvement."
+1036,48.0,Other,East Alexandrastad,3,Delivery,"Average delivery, nothing special."
+2298,59.0,Male,Cameronfort,2,Support,Not satisfied with the support.
+9476,65.0,Male,New Joyton,4,Delivery,"Good delivery overall, but room for improvement."
+7663,65.0,Male,,1,Product,"Very poor product, needs significant improvement."
+7765,57.0,Male,New Anthony,4,Product,"Good product overall, but room for improvement."
+7130,59.0,Female,Carolshire,1,Delivery,
+3423,30.0,Male,East Matthew,4,Product,"Good product overall, but room for improvement."
+5123,40.0,Female,West Matthew,3,Product,"Average product, nothing special."
+5834,41.0,Female,Lake Mathewmouth,5,Delivery,Excellent delivery experience. Very satisfied!
+4314,52.0,Female,Christinaville,5,Support,
+2963,61.0,Other,Jamesberg,2,Delivery,Not satisfied with the delivery.
+8466,30.0,Male,New Matthew,3,Delivery,"Average delivery, nothing special."
+3828,60.0,Other,New Marcusview,4,Support,"Good support overall, but room for improvement."
+7761,47.0,Female,Christopherbury,2,Delivery,Not satisfied with the delivery.
+5355,55.0,Male,Port April,2,Support,Not satisfied with the support.
+3365,,Female,New Martinberg,2,Product,Not satisfied with the product.
+7258,60.0,,Myerston,1,Delivery,"Very poor delivery, needs significant improvement."
+7686,39.0,Male,South Mason,1,Service,"Very poor service, needs significant improvement."
+6946,34.0,Male,Port Angelaport,5,Product,Excellent product experience. Very satisfied!
+7804,19.0,Male,East Austinport,5,Service,Excellent service experience. Very satisfied!
+6246,30.0,Female,Frazierchester,4,Delivery,"Good delivery overall, but room for improvement."
+6881,52.0,Other,North Angela,5,Product,Excellent product experience. Very satisfied!
+6715,65.0,Female,East Nancytown,3,Service,"Average service, nothing special."
+7059,61.0,Male,East Thomas,3,Product,"Average product, nothing special."
+6809,,Female,South Crystal,3,Service,
+5018,36.0,Other,South Jakeview,1,Service,
+4327,45.0,Male,South Sabrinachester,4,Support,
+3698,39.0,Other,Phillipsbury,4,Delivery,"Good delivery overall, but room for improvement."
+8839,22.0,Male,Lake Kathleen,4,Support,
+3536,42.0,Other,South Robert,2,Delivery,Not satisfied with the delivery.
+3750,19.0,Female,Ashleyfort,5,Delivery,Excellent delivery experience. Very satisfied!
+9166,34.0,Other,North Tonychester,2,Service,Not satisfied with the service.
+9594,40.0,Female,Port James,1,Support,"Very poor support, needs significant improvement."
+3151,66.0,Other,Michaelville,3,Support,"Average support, nothing special."
+5135,55.0,Male,New Ryan,5,Service,Excellent service experience. Very satisfied!
+8864,59.0,Male,East Tammyborough,2,Product,
+1154,35.0,Female,East Krystalshire,4,Service,"Good service overall, but room for improvement."
+9666,66.0,Male,Port Michael,1,Service,"Very poor service, needs significant improvement."
+7116,30.0,Male,Port Stevenberg,1,Support,"Very poor support, needs significant improvement."
+6836,28.0,Other,Diazmouth,5,Service,Excellent service experience. Very satisfied!
+2285,,Other,Carneystad,5,Support,
+8188,30.0,Other,Port Erikaburgh,3,Support,"Average support, nothing special."
+1910,31.0,Male,Lake Michael,3,Service,"Average service, nothing special."
+2729,33.0,Male,Bakerland,2,Product,
+4394,30.0,,Harrisville,4,Product,"Good product overall, but room for improvement."
+9680,57.0,Male,,2,Product,Not satisfied with the product.
+5454,38.0,Male,Port Larryville,4,Service,"Good service overall, but room for improvement."
+3415,42.0,Female,Melanieland,2,Service,Not satisfied with the service.
+2863,62.0,Female,Heatherfort,2,Support,Not satisfied with the support.
+7550,,Male,South Diane,5,Delivery,Excellent delivery experience. Very satisfied!
+3429,39.0,Other,South Scott,3,Support,"Average support, nothing special."
+7764,49.0,Other,South Emmaport,5,Service,Excellent service experience. Very satisfied!
+6878,64.0,Male,Caroltown,3,Service,"Average service, nothing special."
+4131,,Female,,5,Service,Excellent service experience. Very satisfied!
+5682,43.0,Other,New Janetland,1,Support,"Very poor support, needs significant improvement."
+5819,48.0,Other,East Natasha,2,Product,Not satisfied with the product.
+7414,23.0,Female,Jessicabury,5,Service,
+4552,,Male,West Roberto,4,Support,"Good support overall, but room for improvement."
+2148,23.0,Other,Williamburgh,3,Service,"Average service, nothing special."
+3107,48.0,Other,South Chelsey,2,Service,Not satisfied with the service.
+8213,61.0,Female,Lake Gerald,1,Product,"Very poor product, needs significant improvement."
+6591,68.0,Female,Lake Elizabethhaven,4,Product,"Good product overall, but room for improvement."
+4714,46.0,Female,,3,Delivery,"Average delivery, nothing special."
+9574,42.0,Male,Jessicaview,5,Product,Excellent product experience. Very satisfied!
+9556,59.0,Male,Adkinstown,2,Delivery,Not satisfied with the delivery.
+6426,28.0,Other,New Shelbyshire,5,Delivery,Excellent delivery experience. Very satisfied!
+5713,25.0,,North Micheal,5,Delivery,Excellent delivery experience. Very satisfied!
+3620,22.0,Female,New Rachel,2,Product,Not satisfied with the product.
+9341,,Female,Lake Claudia,4,Product,"Good product overall, but room for improvement."
+4683,69.0,Female,North Laurachester,5,Service,Excellent service experience. Very satisfied!
+6247,64.0,Female,Bauermouth,2,Support,Not satisfied with the support.
+2295,68.0,Male,Armstrongshire,2,Support,Not satisfied with the support.
+2930,22.0,Male,Mcdanieltown,5,Service,Excellent service experience. Very satisfied!
+3432,,Other,Port Jenniferborough,1,Service,"Very poor service, needs significant improvement."
+7789,49.0,Male,Erictown,1,Service,"Very poor service, needs significant improvement."
+2577,34.0,Other,Marcfort,4,Delivery,"Good delivery overall, but room for improvement."
+5169,66.0,Male,Amberview,2,Delivery,Not satisfied with the delivery.
+9560,61.0,Male,Port Theresafort,1,Delivery,"Very poor delivery, needs significant improvement."
+9701,34.0,Female,West Erin,4,Support,"Good support overall, but room for improvement."
+8321,66.0,Other,West Jamesland,4,Delivery,"Good delivery overall, but room for improvement."
+8147,65.0,Female,Odonnellmouth,2,Service,Not satisfied with the service.
+4718,19.0,Other,Mariafort,1,Product,"Very poor product, needs significant improvement."
+3313,52.0,,Wrightborough,5,Delivery,Excellent delivery experience. Very satisfied!
+9318,,Male,West Kevin,2,Support,Not satisfied with the support.
+6087,47.0,,Port Sharonview,4,Support,"Good support overall, but room for improvement."
+3231,19.0,Other,Millerberg,5,Product,Excellent product experience. Very satisfied!
+5609,28.0,Other,New James,5,Service,Excellent service experience. Very satisfied!
+7032,45.0,Other,East Jeffreytown,4,Product,"Good product overall, but room for improvement."
+1594,48.0,Female,Danielberg,5,Product,Excellent product experience. Very satisfied!
+2220,65.0,Male,Jacksontown,3,Delivery,"Average delivery, nothing special."
+4061,,Female,East Leviside,4,Service,"Good service overall, but room for improvement."
+8594,40.0,Male,Christopherview,4,Service,"Good service overall, but room for improvement."
+7715,51.0,Male,Lake Anthonystad,4,Support,"Good support overall, but room for improvement."
+2170,49.0,Male,Brownborough,2,Delivery,Not satisfied with the delivery.
+1023,25.0,Male,Anneview,1,Support,"Very poor support, needs significant improvement."
+5757,60.0,Female,Tannerview,2,Delivery,Not satisfied with the delivery.
+5115,66.0,Male,Dunnside,5,Support,Excellent support experience. Very satisfied!
+8560,70.0,Female,Robertview,2,Support,Not satisfied with the support.
+3024,63.0,Female,West Ericton,4,Product,
+9904,42.0,Female,Wilkersonview,2,Service,Not satisfied with the service.
+4641,47.0,Other,Pooleburgh,4,Product,"Good product overall, but room for improvement."
+7676,59.0,Female,West Leroy,4,Service,
+7551,39.0,Female,New Gregory,5,Service,Excellent service experience. Very satisfied!
+1685,,Male,Lovestad,1,Delivery,"Very poor delivery, needs significant improvement."
+4614,52.0,Male,New Robertbury,3,Delivery,"Average delivery, nothing special."
+4335,,Female,,1,Support,"Very poor support, needs significant improvement."
+2329,51.0,Other,Port Jason,2,Service,Not satisfied with the service.
+5173,18.0,Male,Derekborough,4,Service,"Good service overall, but room for improvement."
+8669,47.0,Other,Jonesville,5,Product,Excellent product experience. Very satisfied!
+1186,61.0,Other,Anthonyburgh,2,Service,Not satisfied with the service.
+5626,35.0,Other,North Evelynburgh,5,Support,Excellent support experience. Very satisfied!
+3833,32.0,Other,Russellfort,3,Support,"Average support, nothing special."
+1342,66.0,Male,North Lisa,5,Delivery,
+2703,58.0,Male,North Matthewfurt,3,Support,"Average support, nothing special."
+6052,32.0,Male,South Kaylatown,5,Delivery,Excellent delivery experience. Very satisfied!
+8252,24.0,Female,Tiffanymouth,1,Product,"Very poor product, needs significant improvement."
+5371,59.0,Female,New Joshuachester,5,Product,Excellent product experience. Very satisfied!
+4872,55.0,Female,Torresfurt,4,Delivery,"Good delivery overall, but room for improvement."
+1192,61.0,Other,North Andrewville,3,Support,"Average support, nothing special."
+8777,69.0,Other,South Morganborough,1,Support,"Very poor support, needs significant improvement."
+2382,38.0,Male,South Courtney,5,Support,Excellent support experience. Very satisfied!
+1822,22.0,Male,West Jennifershire,2,Service,Not satisfied with the service.
+2367,52.0,Other,West Scottville,3,Delivery,"Average delivery, nothing special."
+1826,52.0,Male,East Nicholasville,4,Support,"Good support overall, but room for improvement."
+1006,41.0,Other,Port Sara,3,Support,
+5653,33.0,Other,Port Matthewborough,3,Support,"Average support, nothing special."
+4730,21.0,Female,New Christine,1,Service,"Very poor service, needs significant improvement."
+7549,57.0,Female,East Erik,4,Service,"Good service overall, but room for improvement."
+7321,33.0,Male,Bradleyton,2,Delivery,
+5163,,Female,New James,2,Delivery,Not satisfied with the delivery.
+8972,19.0,Male,Jessicatown,2,Support,Not satisfied with the support.
+2681,18.0,Other,South Peter,3,Product,"Average product, nothing special."
+2476,51.0,Female,Stevenland,4,Service,"Good service overall, but room for improvement."
+5694,50.0,Male,West Kaylatown,3,Support,"Average support, nothing special."
+6235,64.0,Male,Fosterbury,4,Support,
+7516,,Male,East Jackiestad,1,Product,"Very poor product, needs significant improvement."
+2465,33.0,Other,Kyleside,2,Service,Not satisfied with the service.
+1637,26.0,Other,Jeremiahville,1,Delivery,"Very poor delivery, needs significant improvement."
+9553,23.0,Female,Lake Jeremiah,5,Service,Excellent service experience. Very satisfied!
+6637,66.0,Other,Brownmouth,4,Delivery,"Good delivery overall, but room for improvement."
+3648,30.0,Male,New David,3,Service,"Average service, nothing special."
+3747,24.0,Other,Laurenmouth,4,Product,"Good product overall, but room for improvement."
+5906,61.0,Male,South Charlenefort,4,Support,"Good support overall, but room for improvement."
+1907,,Other,Tranmouth,4,Delivery,"Good delivery overall, but room for improvement."
+8985,35.0,Female,East Tamara,2,Service,Not satisfied with the service.
+8475,36.0,Male,South Lisa,3,Delivery,"Average delivery, nothing special."
+5027,19.0,Other,Lake Brettland,4,Service,"Good service overall, but room for improvement."
+4143,54.0,Other,Lisaborough,2,Support,Not satisfied with the support.
+1980,62.0,Other,Lindaton,4,Product,"Good product overall, but room for improvement."
+4280,70.0,Male,New Jeremychester,1,Support,"Very poor support, needs significant improvement."
+2065,19.0,Female,West Catherine,4,Support,"Good support overall, but room for improvement."
+3461,20.0,Other,Kingfurt,4,Product,"Good product overall, but room for improvement."
+5402,42.0,Female,Lake Kathleenberg,4,Service,"Good service overall, but room for improvement."
+8254,50.0,Female,East Kimberly,5,Product,Excellent product experience. Very satisfied!
+1079,52.0,Female,South Mary,1,Support,"Very poor support, needs significant improvement."
+1522,47.0,Male,Floydhaven,4,Support,"Good support overall, but room for improvement."
+7951,,Other,Cisnerosstad,1,Delivery,
+2821,,Female,West John,1,Service,"Very poor service, needs significant improvement."
+5181,32.0,Male,,4,Service,"Good service overall, but room for improvement."
+4838,59.0,Male,Durhammouth,1,Support,"Very poor support, needs significant improvement."
+5876,65.0,Other,North Karachester,5,Delivery,Excellent delivery experience. Very satisfied!
+7511,67.0,Other,Adrianfurt,1,Support,"Very poor support, needs significant improvement."
+6411,47.0,Male,East Karen,3,Support,"Average support, nothing special."
+3844,32.0,,East Jennifer,3,Delivery,
+3075,33.0,Female,East Richard,2,Product,Not satisfied with the product.
+5623,20.0,Other,South Michellehaven,2,Service,Not satisfied with the service.
+9181,45.0,,Leahborough,1,Product,"Very poor product, needs significant improvement."
+5814,40.0,Male,Christinafort,3,Delivery,"Average delivery, nothing special."
+6402,55.0,Female,Kennethmouth,5,Delivery,Excellent delivery experience. Very satisfied!
+1438,54.0,Male,West Margaretshire,1,Delivery,"Very poor delivery, needs significant improvement."
+3732,63.0,Female,Veronicamouth,5,Product,Excellent product experience. Very satisfied!
+8094,51.0,Other,Lake Brian,1,Support,"Very poor support, needs significant improvement."
+9611,21.0,Other,Mitchellview,2,Support,
+2479,41.0,Other,South Erin,1,Service,"Very poor service, needs significant improvement."
+5153,51.0,Male,Emilyfurt,1,Support,"Very poor support, needs significant improvement."
+3441,59.0,Female,Schultzshire,4,Support,"Good support overall, but room for improvement."
+8940,25.0,Male,New Calvin,4,Delivery,"Good delivery overall, but room for improvement."
+6299,66.0,Other,East Christymouth,3,Delivery,"Average delivery, nothing special."
+7307,18.0,,Lake Peter,4,Service,"Good service overall, but room for improvement."
+7369,24.0,Female,Ryanchester,4,Support,"Good support overall, but room for improvement."
+7206,29.0,Male,Garciaside,2,Delivery,Not satisfied with the delivery.
+8103,63.0,Other,New Edward,2,Delivery,Not satisfied with the delivery.
+5044,20.0,Other,Blakeberg,1,Delivery,"Very poor delivery, needs significant improvement."
+8089,42.0,Male,,1,Delivery,"Very poor delivery, needs significant improvement."
+3090,37.0,Other,Coxbury,5,Support,Excellent support experience. Very satisfied!
+4322,,Female,Wilsontown,5,Delivery,Excellent delivery experience. Very satisfied!
+6488,26.0,Other,West Stevenstad,4,Delivery,"Good delivery overall, but room for improvement."
+4766,40.0,Male,Johnsonport,1,Support,"Very poor support, needs significant improvement."
+8138,67.0,Male,Kimchester,2,Delivery,Not satisfied with the delivery.
+9037,67.0,Male,Lake Lindsayville,1,Product,"Very poor product, needs significant improvement."
+3464,43.0,Female,Ballardmouth,2,Delivery,Not satisfied with the delivery.
+7942,21.0,Female,Kinghaven,2,Product,Not satisfied with the product.
+8310,30.0,Other,East Robertborough,1,Delivery,"Very poor delivery, needs significant improvement."
+2653,30.0,Male,Lopezborough,2,Support,Not satisfied with the support.
+7568,45.0,Female,Wendychester,1,Support,"Very poor support, needs significant improvement."
+9453,29.0,Male,Ronaldberg,5,Product,Excellent product experience. Very satisfied!
+2803,24.0,Other,West David,2,Product,
+4334,63.0,Male,Schmidtview,2,Support,Not satisfied with the support.
+4422,30.0,Other,Millerbury,2,Delivery,Not satisfied with the delivery.
+6367,69.0,Male,West Patriciamouth,4,Support,
+5865,,Male,Jeremiahville,2,Service,Not satisfied with the service.
+5821,50.0,Male,East Nicole,4,Product,"Good product overall, but room for improvement."
+4897,27.0,Female,East Janetchester,3,Product,"Average product, nothing special."
+3922,52.0,Other,Davisview,3,Support,"Average support, nothing special."
+9693,19.0,Female,East Cindyberg,2,Service,Not satisfied with the service.
+2751,30.0,Male,Robertsstad,5,Product,Excellent product experience. Very satisfied!
+8570,55.0,Female,Connormouth,2,Support,Not satisfied with the support.
+8948,54.0,Male,Lake Rogerborough,1,Delivery,"Very poor delivery, needs significant improvement."
+3198,22.0,Female,East Alyssa,4,Support,
+2632,62.0,,New Jenniferbury,5,Product,Excellent product experience. Very satisfied!
+5079,47.0,Female,Austinside,4,Delivery,"Good delivery overall, but room for improvement."
+7585,45.0,Female,Mariamouth,2,Support,Not satisfied with the support.
+8607,41.0,Female,West Samuelton,5,Delivery,Excellent delivery experience. Very satisfied!
+5286,23.0,Female,South Thomas,5,Support,
+7491,24.0,Male,South Andrew,5,Service,Excellent service experience. Very satisfied!
+9192,,Female,Lake Dennis,4,Delivery,"Good delivery overall, but room for improvement."
+1256,63.0,Female,East Karen,5,Delivery,Excellent delivery experience. Very satisfied!
+5971,68.0,Female,West Philliptown,5,Delivery,Excellent delivery experience. Very satisfied!
+2237,41.0,Other,North Hannah,2,Support,Not satisfied with the support.
+2910,63.0,Other,East Dawnmouth,5,Product,Excellent product experience. Very satisfied!
+8856,38.0,Other,New Jacqueline,3,Product,"Average product, nothing special."
+6271,,Other,West Sarahbury,3,Support,"Average support, nothing special."
+9814,61.0,Female,Vickiborough,3,Product,"Average product, nothing special."
+8766,49.0,Female,Michelleview,4,Product,"Good product overall, but room for improvement."
+2340,58.0,Male,Port Amandaton,2,Service,Not satisfied with the service.
+3117,54.0,Other,West Michaelbury,2,Support,Not satisfied with the support.
+7166,40.0,Female,Lisahaven,2,Product,Not satisfied with the product.
+3885,46.0,Male,Hansenbury,4,Service,"Good service overall, but room for improvement."
+9690,55.0,Other,Port Michaelborough,5,Product,
+7680,46.0,Female,Port Melinda,2,Delivery,Not satisfied with the delivery.
+7084,29.0,Female,Hallmouth,2,Service,Not satisfied with the service.
+9263,69.0,Other,North Jessica,4,Service,"Good service overall, but room for improvement."
+3691,67.0,Female,Pattersonchester,3,Product,"Average product, nothing special."
+6817,,Other,Kleinfurt,3,Product,"Average product, nothing special."
+5097,53.0,Other,South Barry,2,Product,Not satisfied with the product.
+7376,27.0,Other,Lake Williamshire,2,Product,Not satisfied with the product.
+3658,21.0,Male,Port Baileyview,5,Product,Excellent product experience. Very satisfied!
+8267,50.0,Other,Sweeneyton,4,Support,"Good support overall, but room for improvement."
+5965,58.0,Female,Lake Deniseland,2,Service,Not satisfied with the service.
+1020,31.0,Male,Carlosstad,5,Delivery,Excellent delivery experience. Very satisfied!
+2939,64.0,Male,Christopherstad,5,Support,Excellent support experience. Very satisfied!
+5722,22.0,Other,New Leah,3,Product,"Average product, nothing special."
+9931,,Male,East Jon,4,Delivery,"Good delivery overall, but room for improvement."
+6166,35.0,Male,Jenniferview,4,Support,"Good support overall, but room for improvement."
+3088,30.0,Female,,1,Product,"Very poor product, needs significant improvement."
+2723,24.0,Male,East Donald,5,Delivery,Excellent delivery experience. Very satisfied!
+6007,56.0,Female,East Casey,4,Delivery,"Good delivery overall, but room for improvement."
+7850,,Female,Hughesbury,2,Product,Not satisfied with the product.
+4127,69.0,Male,Boyleshire,4,Delivery,"Good delivery overall, but room for improvement."
+2797,54.0,Other,New Sarahshire,3,Delivery,"Average delivery, nothing special."
+7107,46.0,Other,,1,Support,"Very poor support, needs significant improvement."
+6217,,Male,Justinton,3,Service,"Average service, nothing special."
+8257,66.0,Other,East Cassandra,1,Service,"Very poor service, needs significant improvement."
+6945,,Female,West Paul,5,Service,Excellent service experience. Very satisfied!
+8576,57.0,,Jeremyside,2,Service,Not satisfied with the service.
+6632,49.0,Other,Wilsonmouth,1,Support,"Very poor support, needs significant improvement."
+8407,50.0,Other,North Samuelmouth,3,Support,"Average support, nothing special."
+2672,,Female,Mortonberg,1,Product,"Very poor product, needs significant improvement."
+8058,55.0,Male,Davisstad,1,Support,"Very poor support, needs significant improvement."
+5147,25.0,Female,Tinaton,3,Service,"Average service, nothing special."
+9200,20.0,Male,South Sharifort,3,Service,"Average service, nothing special."
+3189,44.0,Female,Jessicastad,4,Product,"Good product overall, but room for improvement."
+1810,38.0,Male,West Kevin,3,Product,"Average product, nothing special."
+8498,60.0,Other,Anthonyshire,1,Service,"Very poor service, needs significant improvement."
+5712,30.0,Male,Port Saraborough,2,Delivery,Not satisfied with the delivery.
+4706,66.0,Other,,4,Support,"Good support overall, but room for improvement."
+7483,39.0,Male,Lake Stephanie,3,Support,"Average support, nothing special."
+2968,41.0,Other,Lake Glennmouth,1,Support,"Very poor support, needs significant improvement."
+3345,55.0,Other,New Amychester,5,Service,Excellent service experience. Very satisfied!
+3480,45.0,Male,Thomasfort,1,Delivery,
+7909,59.0,Male,Martinezchester,3,Delivery,
+6670,70.0,Female,West Angela,2,Product,Not satisfied with the product.
+3519,23.0,Other,South Rebeccamouth,3,Delivery,"Average delivery, nothing special."
+9949,45.0,Other,Denisemouth,1,Product,
+2289,42.0,Male,Samuelton,2,Delivery,Not satisfied with the delivery.
+7348,57.0,Female,Lake Leonard,1,Support,"Very poor support, needs significant improvement."
+5473,51.0,,Larsenhaven,1,Service,"Very poor service, needs significant improvement."
+1918,44.0,Other,,1,Product,"Very poor product, needs significant improvement."
+9333,66.0,Female,Victorville,5,Service,Excellent service experience. Very satisfied!
+9043,34.0,Other,Lake Anna,1,Delivery,"Very poor delivery, needs significant improvement."
+2131,45.0,Other,Clarkland,5,Service,Excellent service experience. Very satisfied!
+6165,36.0,Male,Riveraside,4,Support,
+4333,60.0,Other,Alexisfort,2,Support,Not satisfied with the support.
+8174,47.0,Female,New Allisonfurt,5,Support,Excellent support experience. Very satisfied!
+8528,63.0,Other,Nicholashaven,1,Service,"Very poor service, needs significant improvement."
+8585,41.0,Female,Elizabethberg,5,Service,Excellent service experience. Very satisfied!
+7074,60.0,Other,,5,Delivery,Excellent delivery experience. Very satisfied!
+8085,63.0,Male,Haleyfurt,1,Delivery,
+8449,,Female,Port Mary,2,Product,Not satisfied with the product.
+2982,34.0,Male,North Jeffrey,4,Product,"Good product overall, but room for improvement."
+6152,23.0,Other,North William,4,Service,
+8304,40.0,,Port Tammyburgh,5,Delivery,Excellent delivery experience. Very satisfied!
+1959,40.0,Female,Kingburgh,5,Product,Excellent product experience. Very satisfied!
+5245,62.0,Male,Mcbridemouth,4,Product,"Good product overall, but room for improvement."
+5771,29.0,Other,Lake Carrie,3,Support,"Average support, nothing special."
+7071,58.0,Other,North Emily,3,Product,"Average product, nothing special."
+5485,64.0,Male,West Rebeccaside,1,Delivery,"Very poor delivery, needs significant improvement."
+7068,53.0,Other,North Kirstenborough,5,Product,Excellent product experience. Very satisfied!
+7057,64.0,Male,New William,2,Support,Not satisfied with the support.
+1142,42.0,,West Diana,4,Service,"Good service overall, but room for improvement."
+8030,,Female,Katelynburgh,5,Service,Excellent service experience. Very satisfied!
+5671,21.0,Female,Markview,3,Product,"Average product, nothing special."
+7670,23.0,Female,North Carolineview,3,Support,"Average support, nothing special."
+5640,66.0,Other,Lake Alicia,2,Delivery,Not satisfied with the delivery.
+8559,56.0,Female,Johnfort,1,Product,"Very poor product, needs significant improvement."
+2085,31.0,Male,North Edwardfurt,1,Support,"Very poor support, needs significant improvement."
+1649,54.0,,East Emilyfort,1,Support,"Very poor support, needs significant improvement."
+7391,47.0,Male,East Nataliestad,3,Service,"Average service, nothing special."
+4704,63.0,Other,South Michael,1,Service,"Very poor service, needs significant improvement."
+3467,64.0,Male,Jacksonview,4,Support,"Good support overall, but room for improvement."
+5287,45.0,Male,East Johnland,1,Support,"Very poor support, needs significant improvement."
+8762,31.0,,East Jennifer,2,Product,
+8437,58.0,Male,Krauseshire,4,Product,"Good product overall, but room for improvement."
+8377,,Male,Lake Samanthahaven,1,Support,"Very poor support, needs significant improvement."
+1717,37.0,Male,North Dawnview,4,Product,"Good product overall, but room for improvement."
+7994,25.0,Male,North Diana,2,Delivery,Not satisfied with the delivery.
+4921,22.0,Female,Manningland,5,Service,Excellent service experience. Very satisfied!
+7353,,Other,Lake Bruce,4,Service,"Good service overall, but room for improvement."
+6852,56.0,Male,North Teresahaven,3,Delivery,"Average delivery, nothing special."
+4161,65.0,Female,Michaelfort,3,Service,"Average service, nothing special."
+5791,63.0,Male,Lake Kimberly,3,Service,"Average service, nothing special."
+8350,29.0,Female,East Jasonhaven,4,Support,"Good support overall, but room for improvement."
+9990,30.0,Female,Kayleeburgh,1,Service,
+9676,69.0,Female,North Robertview,3,Delivery,"Average delivery, nothing special."
+9713,57.0,Male,Port Joshuamouth,4,Support,"Good support overall, but room for improvement."
+7417,63.0,Male,West Johnmouth,1,Support,"Very poor support, needs significant improvement."
+3558,23.0,Female,Rodriguezton,2,Support,Not satisfied with the support.
+6189,60.0,Female,Port Gregoryland,1,Product,"Very poor product, needs significant improvement."
+1341,29.0,Female,Jonesberg,1,Service,"Very poor service, needs significant improvement."
+3283,26.0,Male,Saraland,3,Product,
+4476,33.0,Female,Port Alyssatown,1,Delivery,"Very poor delivery, needs significant improvement."
+3686,46.0,Other,Danielmouth,2,Product,Not satisfied with the product.
+6516,63.0,Male,New Ambermouth,1,Delivery,"Very poor delivery, needs significant improvement."
+4213,,Male,West Julia,2,Delivery,Not satisfied with the delivery.
+4538,59.0,Other,Deborahmouth,3,Delivery,"Average delivery, nothing special."
+6500,42.0,Female,North Keithburgh,5,Service,Excellent service experience. Very satisfied!
+3654,35.0,Other,East Katrinaland,5,Support,Excellent support experience. Very satisfied!
+9387,22.0,Male,Castroport,3,Service,"Average service, nothing special."
+4873,59.0,Other,West Shelly,1,Support,"Very poor support, needs significant improvement."
+4510,57.0,,Carlsonville,3,Support,"Average support, nothing special."
+8822,27.0,Male,Greenstad,2,Delivery,Not satisfied with the delivery.
+4615,55.0,Female,Wagnerview,2,Product,Not satisfied with the product.
+4865,19.0,Female,Sheilafort,3,Delivery,"Average delivery, nothing special."
+9775,68.0,Female,Robertport,2,Product,Not satisfied with the product.
+8230,39.0,,North Donnaside,4,Support,"Good support overall, but room for improvement."
+5431,53.0,Female,Eatonmouth,1,Service,
+8885,34.0,Female,Robertmouth,2,Support,Not satisfied with the support.
+9842,53.0,Male,Alvarezmouth,4,Delivery,"Good delivery overall, but room for improvement."
+9573,,Female,Browningberg,3,Delivery,"Average delivery, nothing special."
+3468,49.0,Female,Lake Roger,2,Product,Not satisfied with the product.
+6110,37.0,,West Timothyport,4,Product,"Good product overall, but room for improvement."
+8073,32.0,Male,Port Justin,2,Support,Not satisfied with the support.
+9910,37.0,Male,West Ambermouth,1,Support,"Very poor support, needs significant improvement."
+4099,,,South Cindy,4,Service,"Good service overall, but room for improvement."
+2857,57.0,Male,New Jamesberg,4,Service,"Good service overall, but room for improvement."
+3756,40.0,Other,Jennifermouth,4,Delivery,"Good delivery overall, but room for improvement."
+8749,23.0,Female,East Shaun,1,Support,"Very poor support, needs significant improvement."
+2598,,Female,,2,Delivery,Not satisfied with the delivery.
+8253,36.0,Female,South Brittany,2,Service,
+8628,37.0,Male,Lake Christophermouth,5,Service,Excellent service experience. Very satisfied!
+1085,53.0,Female,North Sandra,5,Delivery,Excellent delivery experience. Very satisfied!
+7345,19.0,Male,Katelyntown,2,Support,Not satisfied with the support.
+5961,33.0,Female,,1,Support,"Very poor support, needs significant improvement."
+4798,35.0,,Stephanieville,4,Service,"Good service overall, but room for improvement."
+9997,51.0,,Port Stephaniefurt,3,Service,"Average service, nothing special."
+6832,,Male,Warrenburgh,2,Support,Not satisfied with the support.
+3898,29.0,Male,Toddmouth,5,Service,Excellent service experience. Very satisfied!
+3858,62.0,Female,North Katherineland,3,Service,"Average service, nothing special."
+4870,54.0,Female,New Joseph,1,Delivery,"Very poor delivery, needs significant improvement."
+5276,70.0,Male,Port Miranda,4,Product,"Good product overall, but room for improvement."
+5763,24.0,Other,West Kayla,5,Delivery,Excellent delivery experience. Very satisfied!
+2468,,Male,West Carrie,1,Product,"Very poor product, needs significant improvement."
+4665,,Male,Lake Andrew,5,Delivery,Excellent delivery experience. Very satisfied!
+6365,41.0,Female,North Sean,2,Service,Not satisfied with the service.
+8421,38.0,Male,South Daniel,3,Support,"Average support, nothing special."
+2943,59.0,Male,Emilyborough,3,Service,"Average service, nothing special."
+5880,53.0,,Matthewfort,1,Service,"Very poor service, needs significant improvement."
+5894,22.0,Other,New Karen,4,Product,"Good product overall, but room for improvement."
+4643,36.0,Female,Port Patrick,2,Support,Not satisfied with the support.
+2363,57.0,Male,,4,Service,"Good service overall, but room for improvement."
+8942,49.0,Female,Garzamouth,5,Service,
+9257,69.0,Other,Yodermouth,3,Product,"Average product, nothing special."
+6242,66.0,Male,West Adam,1,Product,"Very poor product, needs significant improvement."
+9745,58.0,Other,North Karenbury,2,Support,Not satisfied with the support.
+5459,33.0,Female,North Kellyborough,4,Service,"Good service overall, but room for improvement."
+8641,56.0,Other,New Jennifer,4,Product,"Good product overall, but room for improvement."
+3252,65.0,Female,Victoriaside,4,Delivery,"Good delivery overall, but room for improvement."
+1935,22.0,Female,Maciaschester,2,Service,Not satisfied with the service.
+2589,50.0,Female,East Vincentport,5,Delivery,
+8160,,Other,West Paul,5,Product,Excellent product experience. Very satisfied!
+7541,42.0,Female,Campbellland,3,Service,"Average service, nothing special."
+7926,64.0,Male,Williamstown,1,Service,"Very poor service, needs significant improvement."
+9368,22.0,Other,Lake Laurachester,5,Service,Excellent service experience. Very satisfied!
+4219,46.0,Other,Shawhaven,3,Delivery,"Average delivery, nothing special."
+1091,53.0,Female,South Dustinville,4,Service,"Good service overall, but room for improvement."
+8275,24.0,Female,Nicholashaven,3,Product,"Average product, nothing special."
+1732,22.0,Other,Lake Joseph,5,Support,Excellent support experience. Very satisfied!
+3116,40.0,Female,Villarrealhaven,3,Service,"Average service, nothing special."
+5679,33.0,Other,Greenshire,5,Support,Excellent support experience. Very satisfied!
+1477,24.0,Other,Kimberlyview,3,Delivery,"Average delivery, nothing special."
+2028,36.0,Male,Michelleside,2,Support,Not satisfied with the support.
+2559,21.0,Female,New Christopher,1,Delivery,"Very poor delivery, needs significant improvement."
+7810,38.0,Male,,5,Support,
+5290,67.0,Other,Williamchester,4,Support,"Good support overall, but room for improvement."
+9373,39.0,Other,Alexandraland,4,Product,"Good product overall, but room for improvement."
+3093,,Female,South Michelle,2,Support,Not satisfied with the support.
+1415,59.0,Female,South Peter,5,Service,Excellent service experience. Very satisfied!
+1138,32.0,Male,Kristenville,2,Delivery,
+2833,65.0,Female,North James,1,Product,"Very poor product, needs significant improvement."
+2927,26.0,Male,Williamshaven,2,Product,Not satisfied with the product.
+8857,70.0,Male,Port Clarence,3,Support,"Average support, nothing special."
+3166,35.0,Female,Lake Josephchester,4,Product,"Good product overall, but room for improvement."
+1937,50.0,Other,East Stephenville,5,Support,
+4508,29.0,Female,Mandymouth,5,Delivery,Excellent delivery experience. Very satisfied!
+1487,67.0,Other,Smithburgh,5,Support,Excellent support experience. Very satisfied!
+3530,48.0,Other,West Rachel,4,Support,"Good support overall, but room for improvement."
+9518,69.0,Other,North Williammouth,5,Support,Excellent support experience. Very satisfied!
+5803,40.0,Male,East Mollyburgh,3,Delivery,"Average delivery, nothing special."
+3526,64.0,,Scottland,4,Delivery,"Good delivery overall, but room for improvement."
+8666,68.0,Female,Jonesshire,5,Delivery,Excellent delivery experience. Very satisfied!
+9003,26.0,Female,Donnaport,4,Delivery,"Good delivery overall, but room for improvement."
+5999,31.0,Female,Jenniferfort,4,Product,"Good product overall, but room for improvement."
+5330,,Other,Moodyview,3,Product,
+7716,23.0,Female,Duketon,5,Service,Excellent service experience. Very satisfied!
+7034,45.0,Female,East Shelia,1,Delivery,"Very poor delivery, needs significant improvement."
+3279,31.0,Other,Stephanieton,4,Delivery,"Good delivery overall, but room for improvement."
+9524,50.0,Female,New Georgetown,4,Support,"Good support overall, but room for improvement."
+6294,49.0,Female,Lake Rhonda,5,Delivery,Excellent delivery experience. Very satisfied!
+9509,35.0,Male,Millsbury,1,Product,"Very poor product, needs significant improvement."
+7771,62.0,Other,West Charles,1,Delivery,"Very poor delivery, needs significant improvement."
+8779,66.0,Male,Michaelhaven,2,Service,Not satisfied with the service.
+1550,24.0,Other,North Kellyfurt,1,Delivery,"Very poor delivery, needs significant improvement."
+8802,44.0,Other,Paulside,1,Service,"Very poor service, needs significant improvement."
+8986,70.0,Male,,2,Product,Not satisfied with the product.
+1319,47.0,Other,Kyleburgh,2,Delivery,Not satisfied with the delivery.
+5900,65.0,Male,New Jessicabury,5,Service,Excellent service experience. Very satisfied!
+8199,65.0,Male,New Tracyton,1,Support,"Very poor support, needs significant improvement."
+6143,55.0,Female,East Kara,4,Product,"Good product overall, but room for improvement."
+9856,47.0,,Johnsonchester,5,Delivery,Excellent delivery experience. Very satisfied!
+2089,,Female,West Jimmyborough,3,Support,"Average support, nothing special."
+7642,44.0,Other,Lake Terriborough,3,Product,"Average product, nothing special."
+4986,66.0,,Leefort,5,Service,
+5910,,Other,Jenniferborough,2,Support,Not satisfied with the support.
+8840,68.0,Male,Darrylland,2,Service,Not satisfied with the service.
+3847,50.0,Female,Ortizbury,3,Delivery,"Average delivery, nothing special."
+6825,25.0,Other,Karinaview,1,Support,
+6114,37.0,Other,Gailbury,5,Service,
+3839,62.0,Male,Port Alexandra,5,Product,Excellent product experience. Very satisfied!
+8961,59.0,Male,Cristianside,2,Support,Not satisfied with the support.
+3554,26.0,Female,Brooksville,1,Product,"Very poor product, needs significant improvement."
+5491,48.0,Female,Byrdport,5,Support,Excellent support experience. Very satisfied!
+3943,25.0,Other,New Sharon,1,Support,"Very poor support, needs significant improvement."
+8353,52.0,Male,West Angela,1,Support,"Very poor support, needs significant improvement."
+2784,21.0,Male,East Cassandrachester,4,Service,
+5182,53.0,Female,Lake Williamport,3,Support,"Average support, nothing special."
+9982,,,New Claytonport,4,Product,"Good product overall, but room for improvement."
+7014,69.0,Female,West Dana,3,Support,
+3165,,Male,Deborahshire,3,Service,"Average service, nothing special."
+9462,35.0,,,4,Delivery,"Good delivery overall, but room for improvement."
+4740,44.0,Other,Stoneside,1,Product,"Very poor product, needs significant improvement."
+8453,,Female,Jamesstad,1,Service,"Very poor service, needs significant improvement."
+9635,,Male,Caseyland,3,Delivery,"Average delivery, nothing special."
+5220,42.0,Female,Port Sarahhaven,1,Delivery,"Very poor delivery, needs significant improvement."
+6256,41.0,Other,Michaelbury,1,Service,"Very poor service, needs significant improvement."
+2679,37.0,Female,North Stephen,2,Service,Not satisfied with the service.
+4930,66.0,Other,Carloshaven,3,Product,"Average product, nothing special."
+2447,37.0,Male,Dianeport,3,Product,"Average product, nothing special."
+4348,40.0,Female,Bakerberg,3,Product,"Average product, nothing special."
+6021,42.0,Other,Nunezstad,2,Product,
+8711,32.0,Female,Woodsview,5,Service,Excellent service experience. Very satisfied!
+6923,24.0,Female,Franciscoside,4,Support,"Good support overall, but room for improvement."
+6055,19.0,Male,North Patrick,5,Delivery,Excellent delivery experience. Very satisfied!
+3021,18.0,Female,Elizabethview,3,Support,"Average support, nothing special."
+1058,67.0,Female,,4,Delivery,"Good delivery overall, but room for improvement."
+2992,,Male,East Dale,1,Service,"Very poor service, needs significant improvement."
+9117,50.0,,Lake Casey,1,Product,"Very poor product, needs significant improvement."
+5551,56.0,Male,New Joshua,2,Product,Not satisfied with the product.
+7109,48.0,Other,Oneillside,4,Delivery,"Good delivery overall, but room for improvement."
+7467,41.0,Male,Lake Elizabeth,3,Service,"Average service, nothing special."
+7592,56.0,Female,South Ericside,4,Product,"Good product overall, but room for improvement."
+7762,44.0,Male,Markborough,2,Product,Not satisfied with the product.
+9093,38.0,Female,Jamieberg,2,Service,Not satisfied with the service.
+7791,37.0,Female,Lake Justin,3,Support,"Average support, nothing special."
+5311,57.0,Female,Parkermouth,2,Support,Not satisfied with the support.
+5436,,Male,Port William,3,Delivery,"Average delivery, nothing special."
+9323,48.0,Female,North Brycefort,3,Support,"Average support, nothing special."
+2377,46.0,Female,North Grace,2,Product,Not satisfied with the product.
+3058,27.0,Male,Kyletown,1,Support,"Very poor support, needs significant improvement."
+7022,58.0,Other,Rollinsburgh,5,Service,Excellent service experience. Very satisfied!
+1457,49.0,,Coopermouth,4,Service,"Good service overall, but room for improvement."
+7358,37.0,Other,South James,2,Product,Not satisfied with the product.
+3917,54.0,Other,North George,3,Product,"Average product, nothing special."
+7813,24.0,Male,North Dave,1,Support,
+5888,31.0,Male,Bradfordburgh,3,Delivery,"Average delivery, nothing special."
+1328,38.0,Female,North Lisafurt,3,Product,"Average product, nothing special."
+6924,55.0,Other,North Stephanieberg,5,Support,Excellent support experience. Very satisfied!
+4666,28.0,Male,Brownmouth,3,Product,"Average product, nothing special."
+3773,,Female,New Theresa,1,Product,"Very poor product, needs significant improvement."
+2487,51.0,Female,West Devinmouth,5,Product,Excellent product experience. Very satisfied!
+6840,43.0,Female,Colliertown,2,Service,
+4390,58.0,Other,Kimberlyport,4,Service,"Good service overall, but room for improvement."
+7817,24.0,Female,South Nicholasbury,2,Service,Not satisfied with the service.
+3091,,Other,South Peterhaven,2,Delivery,Not satisfied with the delivery.
+6770,51.0,Female,Lake Sydney,4,Service,"Good service overall, but room for improvement."
+2991,55.0,Female,South Rachelfurt,3,Product,"Average product, nothing special."
+5301,59.0,,New Josephshire,3,Product,"Average product, nothing special."
+4936,60.0,Other,Randystad,5,Service,Excellent service experience. Very satisfied!
+4118,,Other,Johnsonburgh,4,Support,"Good support overall, but room for improvement."
+1624,36.0,Female,Ryanview,3,Service,"Average service, nothing special."
+2105,53.0,Female,North Linda,3,Delivery,"Average delivery, nothing special."
+3877,,Female,Rayside,1,Support,"Very poor support, needs significant improvement."
+3682,39.0,Male,Gabrielleburgh,3,Support,
+5160,21.0,Male,Johnsonmouth,3,Support,
+6560,43.0,Female,Lake Benjamin,2,Support,Not satisfied with the support.
+1569,40.0,Female,West Tinabury,4,Delivery,"Good delivery overall, but room for improvement."
+9190,32.0,,Graystad,3,Delivery,"Average delivery, nothing special."
+8879,18.0,Female,New Michelleport,4,Support,"Good support overall, but room for improvement."
+2115,58.0,Male,Lake Louis,3,Product,"Average product, nothing special."
+3224,18.0,Female,New Amyhaven,2,Delivery,Not satisfied with the delivery.
+3834,35.0,Male,Port Richard,3,Delivery,"Average delivery, nothing special."
+8865,68.0,Other,Kellyfurt,5,Support,Excellent support experience. Very satisfied!
+1428,54.0,Other,Lake Allisonmouth,3,Product,"Average product, nothing special."
+3614,31.0,Female,Oliverport,2,Product,Not satisfied with the product.
+1489,35.0,Other,North Carrieview,1,Support,"Very poor support, needs significant improvement."
+4486,,Male,Port Kyleborough,5,Support,Excellent support experience. Very satisfied!
+2859,68.0,Female,Lake Jo,1,Service,
+7245,19.0,Male,East Danielfurt,3,Support,"Average support, nothing special."
+4019,19.0,Female,Jeffreyhaven,1,Product,"Very poor product, needs significant improvement."
+4685,,Other,Rileytown,3,Service,"Average service, nothing special."
+3601,35.0,,South Jeffery,1,Delivery,"Very poor delivery, needs significant improvement."
+2306,51.0,Other,East Joy,2,Service,Not satisfied with the service.
+7312,22.0,Other,Williamsbury,2,Support,Not satisfied with the support.
+1242,26.0,Male,South Michael,2,Support,Not satisfied with the support.
+4571,22.0,Other,South Michaelberg,4,Support,"Good support overall, but room for improvement."
+1353,64.0,Other,Lake Michael,4,Product,"Good product overall, but room for improvement."
+8369,41.0,Other,Theresaview,1,Support,"Very poor support, needs significant improvement."
+6620,48.0,,Kirstenshire,5,Delivery,Excellent delivery experience. Very satisfied!
+8297,24.0,Male,Sweeneyton,3,Support,"Average support, nothing special."
+7978,56.0,Female,Lake Anna,2,Delivery,Not satisfied with the delivery.
+4511,38.0,Female,New Connie,2,Support,Not satisfied with the support.
+2817,51.0,Other,North Andrew,3,Product,"Average product, nothing special."
+6123,61.0,Female,South Christinashire,4,Support,"Good support overall, but room for improvement."
+1007,52.0,Male,East Jerry,2,Support,Not satisfied with the support.
+8681,33.0,Male,Richardberg,1,Support,"Very poor support, needs significant improvement."
+8703,56.0,Male,New Amber,1,Service,"Very poor service, needs significant improvement."
+4370,,Other,Angelashire,4,Service,"Good service overall, but room for improvement."
+4397,47.0,Male,Timothyside,2,Support,Not satisfied with the support.
+6935,24.0,Male,Melissaburgh,2,Service,Not satisfied with the service.
+8569,38.0,Male,East Christine,4,Delivery,"Good delivery overall, but room for improvement."
+6296,29.0,Male,South Rebeccafurt,1,Delivery,
+2719,23.0,Female,Lauramouth,4,Support,
+4655,60.0,Other,South Taylor,5,Support,Excellent support experience. Very satisfied!
+1349,45.0,Male,New Michaelfurt,1,Delivery,"Very poor delivery, needs significant improvement."
+8600,35.0,Female,Millerville,4,Support,"Good support overall, but room for improvement."
+3284,,Female,South Craigshire,4,Service,
+7991,66.0,Male,Karenport,1,Support,"Very poor support, needs significant improvement."
+8322,53.0,Female,North Lisastad,2,Product,Not satisfied with the product.
+5858,58.0,Male,Dianeberg,3,Support,"Average support, nothing special."
+4227,,Other,Michaelton,4,Delivery,"Good delivery overall, but room for improvement."
+2580,20.0,Male,Josephtown,4,Delivery,
+1769,59.0,Female,Clarkside,2,Product,Not satisfied with the product.
+5283,51.0,Other,Floresview,3,Service,"Average service, nothing special."
+8482,51.0,Male,Mcintyreshire,1,Product,"Very poor product, needs significant improvement."
+1220,45.0,Other,,3,Support,"Average support, nothing special."
+4659,38.0,Other,West Brenda,4,Service,"Good service overall, but room for improvement."
+2273,59.0,Female,Hendrixview,5,Delivery,Excellent delivery experience. Very satisfied!
+1919,25.0,Male,New John,5,Support,Excellent support experience. Very satisfied!
+4626,42.0,Other,Jesseshire,5,Service,Excellent service experience. Very satisfied!
+4289,44.0,Female,Mooremouth,2,Delivery,Not satisfied with the delivery.
+5646,27.0,Female,,4,Product,"Good product overall, but room for improvement."
+4995,45.0,Other,East Karenfort,5,Delivery,Excellent delivery experience. Very satisfied!
+1745,26.0,Male,South Andreahaven,1,Delivery,"Very poor delivery, needs significant improvement."
+5226,67.0,Other,East Monicaton,1,Service,"Very poor service, needs significant improvement."
+2793,24.0,Female,,2,Support,Not satisfied with the support.
+4580,,Female,South Loganton,4,Delivery,"Good delivery overall, but room for improvement."
+6991,69.0,Female,Jenniferbury,4,Support,"Good support overall, but room for improvement."
+8980,25.0,Other,Tammyhaven,2,Support,Not satisfied with the support.
+4642,35.0,Male,Martinfurt,5,Product,Excellent product experience. Very satisfied!
+3136,51.0,Female,Adamland,5,Service,Excellent service experience. Very satisfied!
+6910,26.0,Other,,1,Service,"Very poor service, needs significant improvement."
+4624,46.0,Male,Samuelmouth,1,Service,
+3379,,Other,Russellbury,4,Service,"Good service overall, but room for improvement."
+7785,54.0,Female,South Brian,5,Product,Excellent product experience. Very satisfied!
+1226,62.0,Female,Ethanmouth,1,Product,"Very poor product, needs significant improvement."
+2109,28.0,Other,Elliottberg,1,Support,"Very poor support, needs significant improvement."
+5559,53.0,Male,New Elizabeth,1,Product,"Very poor product, needs significant improvement."
+7616,52.0,Female,West Amandastad,3,Delivery,"Average delivery, nothing special."
+1553,51.0,Other,Christinafurt,5,Product,Excellent product experience. Very satisfied!
+4210,28.0,Male,Hudsonmouth,2,Service,Not satisfied with the service.
+9069,40.0,Male,South Aaron,3,Delivery,
+4063,,,Lake Barbaratown,3,Support,"Average support, nothing special."
+9042,24.0,Male,Port Valeriechester,3,Support,"Average support, nothing special."
+7517,23.0,Other,North Peter,3,Service,
+8967,68.0,Other,Lambfurt,4,Product,"Good product overall, but room for improvement."
+9665,25.0,Male,Lake Rachel,3,Product,"Average product, nothing special."
+7877,,Female,West Frank,4,Service,"Good service overall, but room for improvement."
+2539,30.0,Female,East Courtney,2,Support,Not satisfied with the support.
+8316,43.0,Male,Tracymouth,1,Delivery,"Very poor delivery, needs significant improvement."
+6512,47.0,Other,Dodsonton,3,Delivery,"Average delivery, nothing special."
+1450,38.0,Other,New Davidbury,5,Product,Excellent product experience. Very satisfied!
+4790,18.0,Male,Port Michael,4,Delivery,"Good delivery overall, but room for improvement."
+5247,41.0,Male,East Robertton,3,Product,"Average product, nothing special."
+6695,37.0,Female,Lopezside,1,Product,"Very poor product, needs significant improvement."
+7285,69.0,Female,Port Madisonhaven,3,Product,"Average product, nothing special."
+9975,63.0,Other,Port Joshua,1,Product,"Very poor product, needs significant improvement."
+6517,28.0,Other,East Hannahbury,4,Product,"Good product overall, but room for improvement."
+3129,69.0,Female,Andreaport,5,Support,Excellent support experience. Very satisfied!
+5256,51.0,Female,Stephanieburgh,3,Delivery,"Average delivery, nothing special."
+8235,22.0,Male,Michelleberg,4,Delivery,"Good delivery overall, but room for improvement."
+6092,42.0,Male,Juliefort,2,Service,Not satisfied with the service.
+3500,63.0,Other,South Sean,5,Product,Excellent product experience. Very satisfied!
+3066,21.0,Other,Tyroneport,2,Product,Not satisfied with the product.
+7821,69.0,Other,Lake Mark,1,Service,"Very poor service, needs significant improvement."
+6948,39.0,Other,Mcculloughhaven,1,Service,"Very poor service, needs significant improvement."
+6058,,Other,East Jamesstad,1,Support,
+9411,,Female,Daltonburgh,5,Product,Excellent product experience. Very satisfied!
+9301,67.0,Female,North Thomas,3,Service,"Average service, nothing special."
+5365,52.0,Female,Jenniferchester,1,Delivery,"Very poor delivery, needs significant improvement."
+5050,32.0,Other,Jenniferchester,2,Delivery,Not satisfied with the delivery.
+6594,51.0,Female,,4,Product,"Good product overall, but room for improvement."
+3068,21.0,Female,Kimfort,3,Service,"Average service, nothing special."
+4769,58.0,Other,Valerieburgh,4,Product,"Good product overall, but room for improvement."
+3499,63.0,Male,North Brian,3,Support,"Average support, nothing special."
+6827,48.0,Female,Port Carlburgh,2,Support,Not satisfied with the support.
+2015,33.0,Other,Lake Jonathan,3,Product,
+2059,30.0,Male,Patriciahaven,2,Product,Not satisfied with the product.
+6975,60.0,Female,Port Angelachester,2,Service,
+8721,23.0,Other,North Daniel,2,Support,Not satisfied with the support.
+1163,35.0,Male,North Frankchester,4,Delivery,"Good delivery overall, but room for improvement."
+1762,45.0,Female,,2,Support,Not satisfied with the support.
+3170,20.0,Female,New Kelly,3,Delivery,"Average delivery, nothing special."
+1640,26.0,Male,Thompsonbury,4,Service,"Good service overall, but room for improvement."
+1853,23.0,Other,East Lindsayburgh,1,Delivery,"Very poor delivery, needs significant improvement."
+3940,24.0,Other,West Cynthiachester,4,Delivery,"Good delivery overall, but room for improvement."
+5020,45.0,,,2,Delivery,Not satisfied with the delivery.
+1274,50.0,Other,Kaylafurt,2,Support,Not satisfied with the support.
+6660,62.0,Other,New Rodney,2,Delivery,Not satisfied with the delivery.
+1601,47.0,Other,New Stacy,1,Support,"Very poor support, needs significant improvement."
+4891,48.0,Female,Lindastad,5,Support,Excellent support experience. Very satisfied!
+7215,56.0,Female,West Brian,4,Service,"Good service overall, but room for improvement."
+9075,,Male,Shawnshire,4,Support,"Good support overall, but room for improvement."
+4093,18.0,Female,,5,Service,Excellent service experience. Very satisfied!
+7763,37.0,Female,Sonyaview,2,Service,Not satisfied with the service.
+1860,22.0,Female,Danielleview,5,Support,Excellent support experience. Very satisfied!
+8517,43.0,Other,,4,Delivery,"Good delivery overall, but room for improvement."
+2253,25.0,Other,Seanmouth,3,Product,"Average product, nothing special."
+4319,47.0,Other,Vazquezville,3,Support,"Average support, nothing special."
+1002,64.0,Male,South Rhonda,5,Service,
+4999,31.0,Male,Ryanview,1,Service,"Very poor service, needs significant improvement."
+8708,34.0,Other,Lake Amandashire,3,Service,"Average service, nothing special."
+8471,69.0,Female,,1,Support,"Very poor support, needs significant improvement."
+5359,27.0,Male,Zacharyfort,1,Service,"Very poor service, needs significant improvement."
+9628,25.0,Male,Prestonshire,5,Delivery,Excellent delivery experience. Very satisfied!
+8750,19.0,Other,New Christopher,5,Service,Excellent service experience. Very satisfied!
+3723,21.0,Female,Jonesborough,4,Product,"Good product overall, but room for improvement."
+7741,,Female,South Kimberlyberg,5,Delivery,Excellent delivery experience. Very satisfied!
+3758,63.0,Female,,1,Service,
+1566,44.0,Other,Nelsonview,4,Support,"Good support overall, but room for improvement."
+2909,22.0,Other,Jennifermouth,1,Service,"Very poor service, needs significant improvement."
+2075,33.0,Other,West Michealchester,3,Support,"Average support, nothing special."
+3607,27.0,Female,Zavalastad,5,Support,
+8015,55.0,Other,Lake Williammouth,2,Delivery,Not satisfied with the delivery.
+7386,61.0,Male,Santiagohaven,5,Service,Excellent service experience. Very satisfied!
+5931,54.0,Male,Andersenshire,2,Product,Not satisfied with the product.
+9774,56.0,Female,North Glennshire,4,Delivery,"Good delivery overall, but room for improvement."
+3673,34.0,Male,Port Brianna,4,Service,"Good service overall, but room for improvement."
+5297,64.0,Male,Jacobhaven,5,Delivery,
+4883,54.0,Other,Jameschester,1,Product,"Very poor product, needs significant improvement."
+9736,43.0,,West Martinville,5,Delivery,Excellent delivery experience. Very satisfied!
+3073,26.0,Male,South Robertmouth,5,Support,Excellent support experience. Very satisfied!
+8981,26.0,Male,North Michaelmouth,5,Product,Excellent product experience. Very satisfied!
+9637,39.0,Male,South Garyberg,5,Support,Excellent support experience. Very satisfied!
+4269,49.0,Other,North Robinview,1,Delivery,"Very poor delivery, needs significant improvement."
+4645,49.0,Male,Jacquelinetown,2,Service,Not satisfied with the service.
+4181,20.0,Female,North Brandonport,4,Product,
+4848,,Male,Lake Davidville,2,Support,Not satisfied with the support.
+1511,18.0,Other,Abbottmouth,4,Product,"Good product overall, but room for improvement."
+3923,18.0,Male,Travisbury,1,Support,"Very poor support, needs significant improvement."
+7132,45.0,Male,Duanestad,5,Support,
+8973,33.0,Other,Jacksonhaven,5,Support,Excellent support experience. Very satisfied!
+2254,18.0,Female,Lake Williamchester,1,Service,
+6971,,Female,East Seanfurt,5,Product,Excellent product experience. Very satisfied!
+4836,67.0,Male,West Troyport,3,Product,"Average product, nothing special."
+1589,32.0,,North Beckymouth,5,Service,Excellent service experience. Very satisfied!
+2437,43.0,Other,Matthewfurt,2,Product,Not satisfied with the product.
+8996,56.0,Female,East Erica,5,Product,Excellent product experience. Very satisfied!
+8299,,Other,Codystad,2,Delivery,Not satisfied with the delivery.
+2287,69.0,Female,Port Charlene,2,Support,Not satisfied with the support.
+4128,25.0,Male,Port Johnmouth,5,Delivery,Excellent delivery experience. Very satisfied!
+5316,58.0,Male,Calebville,2,Service,Not satisfied with the service.
+6386,63.0,Male,Brandymouth,4,Support,"Good support overall, but room for improvement."
+5266,54.0,Female,South Megan,4,Support,"Good support overall, but room for improvement."
+9525,33.0,Other,Joyshire,1,Service,"Very poor service, needs significant improvement."
+4305,64.0,Female,Port Christina,2,Delivery,Not satisfied with the delivery.
+7476,60.0,Other,Lake Williamhaven,3,Service,"Average service, nothing special."
+8100,51.0,Male,Williamsshire,4,Service,"Good service overall, but room for improvement."
+9460,36.0,Male,Danaland,2,Support,
+2846,22.0,Other,South Christopher,5,Delivery,Excellent delivery experience. Very satisfied!
+2742,20.0,Female,East Daryl,4,Support,
+3993,32.0,Male,South Williambury,4,Product,"Good product overall, but room for improvement."
+1432,56.0,Male,New Matthewfort,2,Support,Not satisfied with the support.
+3079,50.0,Male,Stevensberg,3,Product,"Average product, nothing special."
+9367,20.0,Female,,3,Delivery,"Average delivery, nothing special."
+8805,24.0,Other,East Garrett,3,Product,"Average product, nothing special."
+2732,66.0,Male,Gilbertmouth,1,Support,"Very poor support, needs significant improvement."
+8412,59.0,Other,,3,Product,"Average product, nothing special."
+3545,32.0,Female,Port Tarashire,3,Service,"Average service, nothing special."
+5398,21.0,Male,Stephanieton,2,Support,Not satisfied with the support.
+7087,68.0,,Kingbury,5,Support,Excellent support experience. Very satisfied!
+2528,68.0,,Lake Davetown,2,Product,Not satisfied with the product.
+1956,,Male,West Frederickfort,1,Delivery,"Very poor delivery, needs significant improvement."
+9879,41.0,Other,New Susanburgh,2,Support,Not satisfied with the support.
+8127,65.0,Female,Jonesmouth,1,Service,"Very poor service, needs significant improvement."
+5636,61.0,Male,,5,Service,Excellent service experience. Very satisfied!
+4964,50.0,Male,,5,Support,Excellent support experience. Very satisfied!
+6514,42.0,Male,North Ronaldshire,5,Service,Excellent service experience. Very satisfied!
+2546,55.0,Male,Frosttown,4,Support,"Good support overall, but room for improvement."
+7823,41.0,Male,South Paula,1,Product,"Very poor product, needs significant improvement."
+9656,60.0,Other,Nataliehaven,1,Service,"Very poor service, needs significant improvement."
+9874,20.0,Other,West Meredith,3,Delivery,"Average delivery, nothing special."
+5034,64.0,Female,,1,Service,
+1202,50.0,Other,West Patrick,1,Product,"Very poor product, needs significant improvement."
+7412,42.0,Other,Perryland,4,Service,"Good service overall, but room for improvement."
+8101,60.0,Female,Brendamouth,5,Delivery,Excellent delivery experience. Very satisfied!
+9111,52.0,Male,West Robert,5,Service,Excellent service experience. Very satisfied!
+6932,70.0,Female,Port Tinastad,5,Product,Excellent product experience. Very satisfied!
+2687,62.0,Male,South Gregorymouth,3,Support,"Average support, nothing special."
+2301,64.0,Male,Maymouth,3,Product,"Average product, nothing special."
+8746,48.0,Other,Port Markbury,5,Delivery,Excellent delivery experience. Very satisfied!
+5994,64.0,Other,South Matthewton,3,Service,"Average service, nothing special."
+7754,24.0,Female,Nicholsstad,4,Delivery,"Good delivery overall, but room for improvement."
+9182,20.0,Male,Blackview,2,Delivery,Not satisfied with the delivery.
+8406,26.0,Female,North Craigberg,3,Support,"Average support, nothing special."
+6582,61.0,Female,Lake Steve,3,Delivery,"Average delivery, nothing special."
+1373,30.0,Male,West Michael,3,Product,
+9500,39.0,Male,Nicolefurt,2,Service,Not satisfied with the service.
+9380,52.0,Female,South Andreaside,2,Support,Not satisfied with the support.
+3205,69.0,Male,Christopherborough,5,Delivery,Excellent delivery experience. Very satisfied!
+7413,44.0,Male,Conleystad,3,Product,"Average product, nothing special."
+8572,,Female,Elizabethshire,1,Product,"Very poor product, needs significant improvement."
+4544,62.0,Female,Weaverport,2,Support,Not satisfied with the support.
+5081,62.0,Other,West Miguelland,4,Service,"Good service overall, but room for improvement."
+6284,61.0,Female,Davidtown,4,Delivery,"Good delivery overall, but room for improvement."
+3155,,,Olsonfurt,2,Product,Not satisfied with the product.
+4875,66.0,Female,North Brian,3,Delivery,
+8425,48.0,Other,Morganton,3,Product,"Average product, nothing special."
+2454,43.0,Other,,4,Support,"Good support overall, but room for improvement."
+3011,33.0,Female,Martinton,3,Support,"Average support, nothing special."
+9920,61.0,Female,South Cassidy,5,Service,Excellent service experience. Very satisfied!
+6308,36.0,Other,Millerland,5,Service,Excellent service experience. Very satisfied!
+3040,50.0,Male,North Melanieberg,4,Support,"Good support overall, but room for improvement."
+3270,62.0,Other,,4,Service,"Good service overall, but room for improvement."
+4123,53.0,Other,Jeremyland,2,Product,Not satisfied with the product.
+7979,31.0,Female,East Brandon,3,Product,"Average product, nothing special."
+4553,37.0,Male,Crystalshire,5,Support,Excellent support experience. Very satisfied!
+1246,18.0,Female,Lake Kevinville,5,Delivery,Excellent delivery experience. Very satisfied!
+7499,51.0,Female,,5,Product,Excellent product experience. Very satisfied!
+3414,44.0,,Warrenhaven,5,Support,Excellent support experience. Very satisfied!
+1210,66.0,Male,Christineton,4,Service,"Good service overall, but room for improvement."
+1098,68.0,Other,Solisborough,4,Service,"Good service overall, but room for improvement."
+6703,43.0,Female,Jenniferborough,5,Service,Excellent service experience. Very satisfied!
+5237,50.0,Other,Justinfurt,2,Support,Not satisfied with the support.
+5185,69.0,Other,West Lindaland,1,Delivery,"Very poor delivery, needs significant improvement."
+6169,29.0,Other,North Mariemouth,3,Support,"Average support, nothing special."
+8647,35.0,Female,Andradeshire,5,Delivery,Excellent delivery experience. Very satisfied!
+8931,36.0,Male,Port Brendanhaven,5,Support,Excellent support experience. Very satisfied!
+7062,28.0,Female,,2,Service,Not satisfied with the service.
+7448,51.0,Other,South Andres,3,Support,"Average support, nothing special."
+9587,65.0,Other,New Danielburgh,4,Support,
+4439,60.0,,South Jamieville,1,Support,"Very poor support, needs significant improvement."
+9138,18.0,Other,New Colton,5,Support,Excellent support experience. Very satisfied!
+9603,22.0,Male,New Samanthabury,5,Support,Excellent support experience. Very satisfied!
+5734,60.0,Female,West Paigeshire,4,Delivery,"Good delivery overall, but room for improvement."
+6059,49.0,Male,Williamsburgh,2,Support,Not satisfied with the support.
+4912,30.0,Male,Christopherborough,4,Delivery,"Good delivery overall, but room for improvement."
+6414,68.0,Male,Hutchinsonville,2,Delivery,Not satisfied with the delivery.
+2083,54.0,Female,Lucaston,3,Product,"Average product, nothing special."
+1315,62.0,Female,Lake Brittanyview,3,Service,"Average service, nothing special."
+9516,68.0,Other,South Danielle,4,Service,"Good service overall, but room for improvement."
+1611,61.0,Male,Jamesfurt,4,Support,"Good support overall, but room for improvement."
+1671,49.0,Other,East Jennifer,1,Delivery,"Very poor delivery, needs significant improvement."
+8221,34.0,Female,Ashleytown,2,Product,Not satisfied with the product.
+8200,40.0,Male,Port Jacquelineberg,5,Delivery,Excellent delivery experience. Very satisfied!
+6657,26.0,Other,Gregoryborough,3,Delivery,"Average delivery, nothing special."
+4604,,Other,East Julia,5,Product,Excellent product experience. Very satisfied!
+2350,35.0,Male,Evantown,2,Support,Not satisfied with the support.
+7697,43.0,Male,Tiffanyville,1,Delivery,"Very poor delivery, needs significant improvement."
+3621,25.0,Female,Tonyaview,5,Product,Excellent product experience. Very satisfied!
+5787,49.0,Male,Aguilartown,3,Delivery,"Average delivery, nothing special."
+3532,50.0,Female,West James,1,Delivery,"Very poor delivery, needs significant improvement."
+7684,28.0,Female,Williamsside,4,Service,"Good service overall, but room for improvement."
+6322,62.0,Female,New Edwardbury,3,Delivery,"Average delivery, nothing special."
